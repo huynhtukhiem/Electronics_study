@@ -1,2 +1,5 @@
 # Electronics_study
-hello world
+Các dự án nhỏ đã thực hiện:
+- 
+-
+- 
